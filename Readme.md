@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Андрей Сазонов](https://up.htmlacademy.ru/javascript/18/user/662103).
-* Наставник: `Неизвестно`.
+* Наставник: [Максим Прусаков](https://up.htmlacademy.ru/javascript/18/user/83559).
 
 ---
 
